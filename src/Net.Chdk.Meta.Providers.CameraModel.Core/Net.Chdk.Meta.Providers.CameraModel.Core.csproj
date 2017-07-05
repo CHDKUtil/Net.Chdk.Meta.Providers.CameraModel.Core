@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ICameraListProvider.cs" />
+    <Compile Include="ICameraTreeProvider.cs" />
     <Compile Include="IPlatformProvider.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
