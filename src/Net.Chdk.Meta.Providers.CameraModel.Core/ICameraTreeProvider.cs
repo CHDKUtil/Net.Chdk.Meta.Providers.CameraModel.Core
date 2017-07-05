@@ -6,6 +6,6 @@ namespace Net.Chdk.Meta.Providers.CameraModel
 {
     public interface ICameraTreeProvider
     {
-        IDictionary<string, IDictionary<string, TreeRevisionData>> GetCameraTree(Stream stream);
+        IDictionary<string, TreePlatformData> GetCameraTree(Stream stream);
     }
 }
