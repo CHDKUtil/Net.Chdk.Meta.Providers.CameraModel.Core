@@ -1,4 +1,4 @@
-﻿using Net.Chdk.Meta.Model.CameraModel;
+﻿using Net.Chdk.Meta.Model.CameraTree;
 using System.Collections.Generic;
 using System.IO;
 
